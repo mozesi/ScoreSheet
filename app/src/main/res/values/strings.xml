@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Score Sheet</string>
+    <string name="home_team">Manchester United</string>
+    <string name="goals">Goals</string>
+    <string name="fouls">Fouls</string>
+    <string name="corner_kicks">Corner kicks</string>
+    <string name="away_team">Arsenal</string>
+    <string name="btn_corner_kick">Corner Kick</string>
+    <string name="btn_foul">Foul</string>
+    <string name="btn_goal">Goal</string>
+</resources>
